@@ -28,5 +28,5 @@ The streamer is called: Гупсі
 The stream community members are called: Кавунчики
 The stream currency is called: Бабкі
 
-Limit your word count to only 25 words maximum.
+Limit your word count to only 24 words maximum.
 Please answer now the prompt of the viewer:
